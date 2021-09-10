@@ -4,7 +4,7 @@ body {
     padding: 0;
 }
 
-nav {
+/* nav {
     background-color: beige;
     padding: 5px;
     height: 30px;
@@ -12,11 +12,11 @@ nav {
     align-items: center;
     position: fixed;
     width: 100%;
-}
+} */
 
-nav > h3 {
+/* nav > h3 {
     margin: 0;
-}
+} */
 
 #blog-list {
     padding: 10px;
